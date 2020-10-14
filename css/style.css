@@ -1,3 +1,9 @@
+body {
+    font-family: angie-sans, sans-serif;
+    font-weight: 200px;
+    font-style: normal;
+    background-color: #FDF9F0;
+}
 .inline-block {
     display: inline-block;
     vertical-align: top;
@@ -19,6 +25,11 @@
     height: 600px;
     padding: 25px;
 }
+.greeting {
+    font-family: fatboy, serif;
+    font-weight: 400;
+    font-style: normal;
+}
 .content {
     width: 500px;
     margin: 0 auto;
@@ -28,6 +39,11 @@
     text-align: center;
 }
 .footer ul {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.footer p {
     display: inline-block;
     vertical-align: top;
     text-align: center;
