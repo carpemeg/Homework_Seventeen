@@ -2,6 +2,7 @@ body {
     font-family: angie-sans, sans-serif;
     font-weight: 200px;
     font-style: normal;
+    color: #2A314E;
     background-color: #FDF9F0;
 }
 .inline-block {
@@ -29,6 +30,7 @@ body {
     font-family: fatboy, serif;
     font-weight: 400;
     font-style: normal;
+    color: #2A314E;
 }
 .content {
     width: 500px;
